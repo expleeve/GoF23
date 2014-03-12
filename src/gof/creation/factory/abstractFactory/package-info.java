@@ -4,7 +4,7 @@
  */
 /**
  * ²Î¿¼£º
- * 
+ * java.awt.Toolkit
  * @author chenkund
  *
  */
